@@ -2,6 +2,9 @@
 
 <div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-bandekar-4654932a9/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/varadbandekar22)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@varadbandekar22)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/varad_bandekar)
 [![GitHub followers](https://img.shields.io/github/followers/vrd07?style=for-the-badge&logo=github)](https://github.com/vrd07?tab=followers)
 
