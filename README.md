@@ -51,12 +51,11 @@ $ whoami
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrd07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=vrd07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrd07&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrd07&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=vrd07&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ## 🎯 What's Next
