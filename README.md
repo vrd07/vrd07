@@ -17,68 +17,80 @@ $ whoami
 
 ## 🛠️ What I'm Building
 
-- **Security Tools** — Port scanners, vulnerability assessments, defensive utilities
-- **Web Applications** — Full-stack projects with secure development practices
-- **Algorithmic Trading** — Quantitative analysis and automated trading systems
+- **Security Tools** — Port scanners, vulnerability assessments, pentesting utilities for macOS
+- **Web Applications** — Full-stack projects with secure development practices (PHP, JavaScript, TypeScript)
+- **Algorithmic Trading** — Quantitative analysis, automated trading systems, and gold strategy backtesting
+- **AI & EdTech** — AI-powered tutoring platforms for self-paced learning
 - **CTF Challenges** — Learning offensive security through hands-on exercises
 
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Focus Areas:** Network Security & Pentesting · Linux Administration · Automation & Scripting · Secure Web Development
+**Focus Areas:** Network Security & Pentesting · Linux Administration · Automation & Scripting · Secure Web Development · Quantitative Trading
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [🔍 Port Scanner](https://github.com/vrd07/Port_scanner) | Network reconnaissance tool built in Bash |
-| [🏛️ Civic Complaints System](https://github.com/vrd07/civic-complaints-system) | Full-stack web app for civic engagement |
-| [📈 Quant Trading](https://github.com/vrd07/Quant_Trading) | Algorithmic trading strategies and analysis |
-| [⚙️ Dotfiles](https://github.com/vrd07/dotfiles) | Personal development environment config |
+<div align="center">
+    
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🔍 Port Scanner](https://github.com/vrd07/Port_scanner) | Network reconnaissance tool built in Bash | Shell |
+| [🛡️ PentestTool for macOS](https://github.com/vrd07/PentestTool_for_macOs) | Essential pentesting tools and scripts for macOS | Shell |
+| [🎯 My First Clickjacking Vuln](https://github.com/vrd07/My_First_Clickjacking_Vuln) | Demonstration of clickjacking attack vectors | HTML |
+| [📈 Quant Trading](https://github.com/vrd07/Quant_Trading) | Algorithmic trading strategies and analysis | Python |
+| [🥇 Gold Strategy](https://github.com/vrd07/gold-strategy) | Gold trading strategy backtesting and analysis | JavaScript |
+| [🏛️ Civic Complaints System](https://github.com/vrd07/civic-complaints-system) | Full-stack web app for civic engagement | PHP |
+| [🚗 CarSpa](https://github.com/vrd07/CarSpa) | Modern car service booking platform | JavaScript |
+| [🤖 AI Tutor](https://github.com/vrd07/Ai_Tutor) | AI-powered self-paced learning platform | Python |
+| [🌍 WikiPlace](https://github.com/vrd07/WikiPlace) | Open source community-driven platform | HTML |
+| [💻 Live-Pair](https://github.com/vrd07/Live-Pair) | Real-time collaborative code editor | TypeScript |
+| [🌐 Breeze](https://github.com/vrd07/Breeze) | Lightweight custom browser | CMake |
+| [⚙️ Dotfiles](https://github.com/vrd07/dotfiles) | Personal development environment configs | Lua |
+
+</div>
 
 ## 📊 GitHub Stats
 
-<!-- Option A: Default instance (may be rate-limited) -->
-<!-- If stats don't load, deploy your own: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=vrd07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vrd07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=vrd07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrd07&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=vrd07&layout=compact&theme=tokyonight&hide_border=true)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vrd07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🎯 What's Next
 
 ```python
 class CurrentGoals:
-    learning = ["Cybersecurity Fundamentals", "Offensive Security"]
-    building = ["Security Automation Tools", "CTF Challenges"]
-    seeking  = "Security Engineer Opportunities"
+    learning = ["Cybersecurity Fundamentals", "Offensive Security", "Quantitative Finance"]
+    building = ["Security Automation Tools", "CTF Challenges", "Trading Algorithms"]
+    seeking = "Security Engineer Opportunities"
 ```
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on security projects, CTF teams, or open-source security tools. If you're working on something interesting in the security space, let's talk.
+I'm always open to collaborating on security projects, CTF teams, open-source security tools, or trading strategy research. If you're working on something interesting, let's talk.
 
-**Looking for:** Security Engineer roles · Open-source collaborations · CTF team opportunities
+**Looking for:** Security Engineer roles · Open-source collaborations · CTF team opportunities · Quant trading discussions
 
 ---
-
 <div align="center">
-
 *"Security is not a product, but a process." — Bruce Schneier*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vrd07&color=blue&style=flat-square)
-
-</div>
